@@ -1,4 +1,3 @@
-# BaiDu-IFE
 echo "# BaiDu-IFE" >> README.md
 git init
 git add README.md
