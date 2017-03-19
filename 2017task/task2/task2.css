@@ -34,6 +34,7 @@ body{
 	margin:20px;
 }
 .picture{
+	position:relative
 	border:2px solid #DEDEDE;
 	width:550px;
 	padding:20px;
@@ -41,4 +42,9 @@ body{
 }
 .pictuer img{
 	margin:20px;
+}
+.pictuer p{
+	position:absolute;
+	left:auto;
+	right:auto;
 }
