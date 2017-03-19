@@ -34,6 +34,11 @@ body{
 	margin:20px;
 }
 .picture{
-	border:1px solid #DEDEDE;
-	width:100px;
+	border:2px solid #DEDEDE;
+	width:550px;
+	padding:20px;
+	margin:20px;
+}
+.pictuer img{
+	margin:20px;
 }
