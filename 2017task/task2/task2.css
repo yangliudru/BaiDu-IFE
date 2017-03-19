@@ -1,19 +1,16 @@
-html,body,div,h2,h3,p,a,ul,li,blockquote,table,aside,footer{
-	padding:none;
-	margin:none;
-}
-h2{
-	font-weight:bold
+h3{
+	font-weight:normal;
 }
 .author{
-	font-size:10px;
+	font-size:15px;
+	font-weight:lighter;
 }
 .retract{
 	text-indent:2em;
 }
 #nav{
 	border:2px solid black;
-	padding:15px white;
+	padding:none;
 	background:black;
 }
 #nav nav{
@@ -28,11 +25,11 @@ head{
 body{
 	font-family:"Microsoft Yahei";
 	background: #DEDEDE;
-	font-size:15px;
+	font-size:25px;
 }
 .first,.second,.third,.fourth,aside{
 	border:2px solid black;
 	background:white;
-	padding:10px;
+	padding:20px;
 	margin:20px;
 }
