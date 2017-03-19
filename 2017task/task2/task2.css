@@ -52,6 +52,9 @@ body{
 	border: 1px solid #000;
 	border-collapse: collapse
 }
+.fourth caption{
+	text-align:left;
+}
 th{
 	background:black;
 	color:white;
