@@ -46,4 +46,10 @@ body{
 .center{
 	text-align:center;
 }
+table{
+	display:block;
+}
+th{
+	background:black;
+}
 
