@@ -55,6 +55,9 @@ body{
 .fourth caption{
 	text-align:left;
 }
+.fourth tfoot{
+	background:#DEDEDE;
+}
 th{
 	background:black;
 	color:white;
