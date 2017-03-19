@@ -38,13 +38,12 @@ body{
 	width:550px;
 	padding:20px;
 	margin:20px;
-	position:relative
+
 }
 .pictuer img{
 	margin:20px;
 }
 .pictuer p{
-	position:absolute;
-	left:auto;
-	right:auto;
+
+
 }
