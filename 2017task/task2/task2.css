@@ -2,13 +2,14 @@ h3{
 	font-weight:normal;
 }
 .author{
-	font-size:15px;
+	font-size:7px;
 	font-weight:lighter;
 }
 .retract{
 	text-indent:2em;
 }
 #nav{
+	font-size:12px;
 	border:2px solid black;
 	padding:none;
 	background:black;
@@ -25,7 +26,7 @@ head{
 body{
 	font-family:"Microsoft Yahei";
 	background: #DEDEDE;
-	font-size:25px;
+	font-size:20px;
 }
 .first,.second,.third,.fourth,aside{
 	border:2px solid black;
