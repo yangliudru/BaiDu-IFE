@@ -43,7 +43,5 @@ body{
 .pictuer img{
 	margin:20px;
 }
-.pictuer p{
-	text-align: centerwidth:50%;
-}
+.pictuer p{text-align:center;background:#399;width:250px;height:20px}
 
