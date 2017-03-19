@@ -1,3 +1,16 @@
+html,body,div,h2,h3,p,a,ul,li,blockquote,table,aside,footer{
+	padding:none;
+	margin:none;
+}
+h2{
+	font-weight:bold
+}
+.author{
+	font-size:10px;
+}
+.retract{
+	text-indent:2em;
+}
 #nav{
 	border:2px solid black;
 	padding:5px;
