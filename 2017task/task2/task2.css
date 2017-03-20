@@ -102,7 +102,7 @@ button{
 	
 }
 #person{
-	font-size:12px;
+	display:inline-block;
 	text-align:top;
 }
 	
