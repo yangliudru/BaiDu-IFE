@@ -85,7 +85,13 @@ button{
 	border-radius:1em;
 	color:white;
 }
-.describe{
+.tip{
+	color:#DEDEDE
+	width:60%;
+	text-align:left;
+	
+}
+.attribute{
 	display:block;
 	
 }
