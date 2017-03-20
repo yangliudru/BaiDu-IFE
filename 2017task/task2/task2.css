@@ -79,6 +79,8 @@ aside div h3{
 }
 button{
 	display:inline;
+	width:100%;
+	height:40px;
 	background:blue;
 	color:white;
 }
