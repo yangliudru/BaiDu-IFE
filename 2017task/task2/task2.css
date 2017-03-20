@@ -94,6 +94,7 @@ button{
 }
 .attribute{
 	width:80%;
+	float:right;	
 	text-align:left;
 }
 .describe{
