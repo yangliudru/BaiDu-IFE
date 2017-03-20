@@ -73,7 +73,7 @@ aside div h3{
 	padding:20px;
 }
 
-.location #button{
+.location,#button{
 	width:50%;
 	text-align:right;
 }
