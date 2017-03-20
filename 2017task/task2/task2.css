@@ -77,11 +77,12 @@ aside div h3{
 	width:40%;
 	text-align:right;
 }
-#button{
+button{
 	display:inline;
 	background:blue;
 	color:white;
 }
 .describe{
-	display:inline;
+	display:block;
+	
 }
