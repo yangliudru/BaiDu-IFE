@@ -72,12 +72,9 @@ aside div h3{
 	border-left:2px solid #DEDEDE;
 	padding:20px;
 }
-aside div{
-	position:relative; 
-}
+
 .mail .mailtip .mima .mimatip .gender .city .hobby .describe{
-	position:absolute;
-	float:right;
+	width:200px;
 
 }
 
