@@ -93,11 +93,12 @@ button{
 	
 }
 .attribute{
-	width:80%;
+	width:75%;
 	float:right;	
 	text-align:left;
 }
 .describe{
+	display:block;
 	width:100%;
 	padding:0px 0px 10px 20px;
 	
