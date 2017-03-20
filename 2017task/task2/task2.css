@@ -72,7 +72,7 @@ aside div h3{
 	border-left:2px solid #DEDEDE;
 	padding:20px;
 }
-aside div form,p,select{
+aside div form,p{
 	width:100%;
 	text-align:center;
 }
