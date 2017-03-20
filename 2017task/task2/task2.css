@@ -74,7 +74,10 @@ aside div h3{
 }
 
 .mail .mailtip .mima .mimatip .gender .city .hobby .describe{
-	
+	display:inline-block;
+	width:400px;
+	text-align:right;
+	margin-right:5px;
 
 }
 
