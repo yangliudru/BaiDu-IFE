@@ -86,14 +86,12 @@ button{
 	color:white;
 }
 .tip{
-	display:block;
 	color:#DEDEDE
 	width:60%;
 	text-align:left;
 	
 }
 .attribute{
-	display:block;
 	width:80%;
 	text-align:left;
 }
