@@ -69,6 +69,10 @@ aside div h3{
 	font-size:25px;
 	width:100%;
 	height:30px;
-	border:2px solid #DEDEDE;
+	border-left:2px solid #DEDEDE;
 	padding:20px;
+}
+aside div form,p,select{
+	width:100%;
+	text-align:center;
 }
