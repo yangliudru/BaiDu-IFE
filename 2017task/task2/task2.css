@@ -95,3 +95,15 @@ button{
 	display:block;
 	
 }
+.describe{
+	width:100%;
+	text-align:left;
+	padding:50px;
+	
+}
+#person{
+	font-size:12px;
+	text-align:top;
+}
+	
+
