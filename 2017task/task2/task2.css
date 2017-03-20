@@ -73,8 +73,15 @@ aside div h3{
 	padding:20px;
 }
 
-.location,#button{
+.location{
 	width:40%;
 	text-align:right;
 }
-
+#button{
+	display:inline;
+	background:blue;
+	color:white;
+}
+.describe{
+	display:inline;
+}
