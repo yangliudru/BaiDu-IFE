@@ -11,7 +11,7 @@
   background:white;
   float:left;
   width:200px;
-  height:80px;
+  height:84px;
   padding:16px;
 }
 #team img{
@@ -21,7 +21,6 @@
   height:80px;
 }
 #team p{
-  display: inline-block;
   float:right;
   font-weight:bold;
   font-size:30px;
