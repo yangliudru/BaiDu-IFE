@@ -16,7 +16,8 @@
   padding:20px;
 }
 #introduce{
- 
+  border:2px solid #999;
+  background:white;
 }
 #personal{
   border:2px solid #999;
