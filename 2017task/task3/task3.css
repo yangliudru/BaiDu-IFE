@@ -1,4 +1,7 @@
-
+html{
+  border:2px solid #999;
+  background:white;
+}
 #first{
   height:460px;
   border:2px solid #999;
@@ -30,11 +33,14 @@
   float:right;
   width:120px;
   height:420px;
-  padding:20px
+  padding:10px
 }
 #personal img{
+  display: inline-block;
+  text-align: center
   border:2px solid #999;
   background:#eee;
   width:80px;
   height:80px;
-}
+  margin:10px;
+ }
