@@ -31,9 +31,9 @@ html{
   border:2px solid #999;
   background:white;
   float:right;
-  width:120px;
-  height:420px;
-  padding:20px
+  width:80px;
+  height:400px;
+  padding:10px
 }
 #personal img{
   display: inline-block;
