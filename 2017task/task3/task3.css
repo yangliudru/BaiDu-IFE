@@ -27,13 +27,12 @@ html{
   margin:0 20px 20px 20px;
 }
 #personal{
-  display: inline-block;
   border:2px solid #999;
   background:white;
   float:right;
   width:96px;
-  height:396px;
-  padding:20px 10px;
+  height:400px;
+  padding:8px;
 }
 #personal img{
   border:2px solid #999;
