@@ -102,13 +102,11 @@ button{
 .describe{
 	width:72%;
 	float:right;
-	padding:0px 0px 10px 20px;
 }
 #person{
 	text-align:top;
-	
-	
-	
+	font-size:15px;
+	float:right;
 }
 
 	
