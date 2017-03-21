@@ -86,9 +86,8 @@ button{
 	color:white;
 }
 .tip{
-	color:#DEDEDE
 	position: relative;
-	left:30%
+	left:30;
 }
 .attribute{
 	width:72%;
