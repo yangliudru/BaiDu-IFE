@@ -8,6 +8,7 @@
   margin:20px;
 }
 #team{
+  display: inline-block;
   border:2px solid #999;
   background:white;
   float:left;
@@ -16,6 +17,7 @@
   padding:20px;
 }
 #introduce{
+  display: inline-block;
   border:2px solid #999;
   background:white;
   width:auto;
@@ -23,6 +25,7 @@
   margin:20px;
 }
 #personal{
+  display: inline-block;
   border:2px solid #999;
   background:white;
   float:right;
