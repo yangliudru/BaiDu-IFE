@@ -12,21 +12,21 @@
   float:left;
   width:200px;
   height:84px;
-  padding:16px 16px 16px 10px;
+  padding:16px;
 }
 #team img{
   float:left;
   border:2px solid #999;
   width:80px;
   height:80px;
-
+  padding:0;
+  margin:0;
 }
 #team p{
   text-align:center;
   font-weight:bold;
-  font-size:25px;
+  font-size:22px;
   height:-5px;
-  left:10px;
 }
 
 #introduce{
