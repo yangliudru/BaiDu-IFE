@@ -88,8 +88,9 @@ button{
 }
 .tip{
 	position: relative;
-	left:28%;
+	left:30%;
 	color:#DEDEDE;
+	font-size:15px;
 	padding:0px;
 	margin:0px;
 }
