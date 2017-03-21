@@ -95,12 +95,13 @@ button{
 	margin-bottom:10px;
 }
 .attribute{
-	width:75%;
+	width:74%;
 	float:right;	
 	text-align:left;
+	margin-bottom:5px;
 }
 .describe{
-	width:80%;
+	width:78%;
 	float:right;
 }
 #person{
