@@ -16,10 +16,13 @@ html{
   float:left;
   width:200px;
   height:120px;
-  padding:20px;
+  padding:16px;
 }
 #team img{
   float:left;
+  border:2px solid #999;
+  width:80px;
+  height:80px;
 }
 #team p{
   float:right;
