@@ -21,11 +21,7 @@
   height:80px;
 }
 #team p{
-  display: inline-block;
-  float:right;
   text-align:center;
-  height:52px;
-  line-height:52;
   font-weight:bold;
   font-size:30px;
   
