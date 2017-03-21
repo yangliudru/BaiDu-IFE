@@ -76,6 +76,7 @@ aside div h3{
 .location{
 	width:40%;
 	text-align:right;
+	margin:5px;
 }
 button{
 	display:block;
@@ -87,7 +88,10 @@ button{
 }
 .tip{
 	position: relative;
-	left:30%;
+	left:28%;
+	color:#DEDEDE;
+	padding:0px;
+	margin:0px;
 }
 .attribute{
 	width:72%;
@@ -95,8 +99,8 @@ button{
 	text-align:left;
 }
 .describe{
-	display:block;
-	width:100%;
+	width:72%;
+	float:right;
 	padding:0px 0px 10px 20px;
 }
 
