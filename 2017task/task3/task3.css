@@ -1,1 +1,29 @@
 
+#first{
+  border:2px solid #999;
+  background:#eee;
+  width:100%;
+  height:460px;
+  padding:20px;
+  margin:20px;
+}
+#team{
+  border:2px solid #999;
+  background:white;
+  width:200px;
+  height:120px;
+  padding:20px;
+}
+#personal{
+  border:2px solid #999;
+  background:white;
+  width:120px;
+  height:420px;
+  padding:20px
+}
+#personal img{
+  border:2px solid #999;
+  background:#eee;
+  width:80px;
+  height:80px;
+}
