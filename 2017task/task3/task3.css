@@ -29,6 +29,7 @@
 }
 #team p{
   display:block;
+  float:right;
   font-weight:bold;
   font-size:15px;
   width:60px;
