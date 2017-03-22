@@ -15,10 +15,11 @@
   background:white;
   float:left;
   width:200px;
-  height:84px;
-  padding:16px;
+  height:120px;
+  padding:20px;
 }
 #team img{
+  display:block;
   float:left;
   border:2px solid #999;
   width:80px;
@@ -27,6 +28,7 @@
   margin:0;
 }
 #team p{
+  display:block;
   text-align:center;
   font-weight:bold;
   font-size:22px;
@@ -43,11 +45,12 @@
   border:2px solid #999;
   background:white;
   float:right;
-  width:96px;
-  height:410px;
-  padding:8px;
+  width:120px;
+  height:420px;
+  padding:10px;
 }
 #personal img{
+  display:block;
   border:2px solid #999;
   background:#eee;
   width:80px;
