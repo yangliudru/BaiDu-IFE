@@ -10,7 +10,6 @@
   padding:20px;
   margin:20px 20px 20px 20px;
   overflow: auto;
-  clear:right;
 }
 #team{
   border:2px solid #999;
@@ -47,13 +46,13 @@
 #personal{
   position:absolute;
   top:20px;
+  bottom：20px;
   right:20px;
   border:2px solid #999;
   background:white;
   width:120px;
   overflow: auto;
   padding:10px;
-  margin:20px;
 }
 #personal img{
   display:block;
