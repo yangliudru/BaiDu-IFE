@@ -40,14 +40,13 @@
   padding:20px;
   margin-left:220px;
   margin-right:140px;
+  clear:right;
 }
 #personal{
   display:inline-block;
   border:2px solid #999;
   background:white;
   float:right;
-  position:relative;
-  top:0px;
   width:120px;
   overflow: auto;
   padding:10px;
