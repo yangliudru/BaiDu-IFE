@@ -47,7 +47,7 @@
   float:right;
   width:120px;
   overflow: auto;
-  padding:10px;
+  padding:20px;
 }
 #personal img{
   display:block;
@@ -55,5 +55,5 @@
   background:#eee;
   width:80px;
   height:80px;
-  margin:10px;
+  margin:20px;
  }
