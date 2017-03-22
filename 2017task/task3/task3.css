@@ -42,18 +42,12 @@
   margin-right:140px;
 }
 #personal{
-  position:relative;
+  float:left;
   border:2px solid #999;
   background:white;
   width:120px;
   overflow: auto;
   padding:10px;
-}
-#into{
-  position:absolute
-  width:80px;
-  top:0;
-  right:0;
 }
 #into img{
   display:block;
