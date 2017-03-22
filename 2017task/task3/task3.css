@@ -4,7 +4,6 @@
           box-sizing: border-box;
 }
 #first{
-  position:absolute
   border:2px solid #999;
   background:#eee;
   padding:20px;
@@ -44,12 +43,8 @@
   clear:right;
 }
 #personal{
-  position:relative;
-  display:inline-block;
   border:2px solid #999;
   background:white;
-  top:20px;
-  left:20px;
   width:120px;
   overflow: auto;
   padding:10px;
