@@ -39,14 +39,14 @@
   background:white;
   padding:20px;
   margin-left:220px;
-  margin-right:160px;
+  margin-right:140px;
 }
 #personal{
   border:2px solid #999;
   background:white;
   float:right;
   width:120px;
-  height:420px;
+  overflow: auto;
   padding:10px;
 }
 #personal img{
@@ -55,5 +55,5 @@
   background:#eee;
   width:80px;
   height:80px;
-  margin:8px;
+  margin:10px;
  }
