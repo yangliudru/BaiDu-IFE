@@ -2,7 +2,7 @@
         position:relative;
         border:2px solid #999;
         width:200px;
-        min-height:150px;   //设置父元素的最小高度与子元素相同，否则子元素会撑不起父元素的高度；
+        min-height:100px;   //设置父元素的最小高度与子元素相同，否则子元素会撑不起父元素的高度；
         overflow: auto;
       }
       #second{
