@@ -19,6 +19,8 @@ body{
 	font-family:"Microsoft Yahei";
 	background: #DEDEDE;
 	font-size:20px;
+	padding:0;
+	margin:0;
 }
 .right{
 	margin-right:540px;
