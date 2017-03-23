@@ -17,6 +17,7 @@
 }
 #bottom_right_corner{
   display:inline-block;
+  float:right;
   border-top-left-radius:4em;
   position:relative;
   right:0;
