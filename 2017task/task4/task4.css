@@ -1,8 +1,5 @@
-.middle{
-  width:100%;
-  height:100%;
-}
 #background{
+  position:relative;
   background:#ccc;
   width:400px;
   height:200px;
@@ -15,15 +12,14 @@
 }
 #top_left_corner{
   border-bottom-right-radius:4em;
-  position:relative;
+  position:absolute;
   top:0;
   left:0;
 }
 #bottom_right_corner{
-  
-  float:right;
+    float:right;
   border-top-left-radius:4em;
-  position:relative;
+  position:absolute;
   right:0;
   bottom:0;
 
