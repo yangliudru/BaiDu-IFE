@@ -1,4 +1,10 @@
+#assist{
+  position:relative;
+  left:50%;
+}
 #background{
+  position:relative;
+  right:-50%;
   background:#ccc;
   width:400px;
   height:200px;
