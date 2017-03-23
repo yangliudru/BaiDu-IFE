@@ -2,7 +2,7 @@
   background:#ccc;
   width:400px;
   height:200px;
-  margin:0 auto;
+  margin:auto;
 }
 #top_left_corner,#bottom_right_corner{
   background:#fc0;
