@@ -1,7 +1,7 @@
 #nav{
 	font-size:12px white;
 	border:2px solid black;
-	width:100%
+	width:100%;
 	background:black;
 	overflow:auto;
 }
@@ -80,7 +80,7 @@ aside{
 	font-size:15px;
 	border:2px solid black;
 	background:white;
-	width:476px;
+	width:456px;
 	padding:20px;
 	margin:0 20px;
 	overflow:auto;
