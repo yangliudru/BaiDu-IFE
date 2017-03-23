@@ -17,9 +17,6 @@ body{
 	background: #DEDEDE;
 	font-size:20px;
 }
-main{
-	padding:20px;
-}
 .right{
 	margin-right:560px;
 }
@@ -83,6 +80,7 @@ aside{
 	background:white;
 	width:516px;
 	padding:20px;
+	margin:20px;
 	overflow:auto;
 }
 aside div h3{
