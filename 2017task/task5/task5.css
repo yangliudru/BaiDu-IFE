@@ -1,3 +1,7 @@
+html{
+	padding:0;
+	margin:0;
+}
 #nav{
 	font-size:12px white;
 	border:2px solid black;
@@ -7,7 +11,7 @@
 }
 #nav nav{
 	float:right;
-	right:25px;
+	right:50px;
 	color:white;
 	font-size:15px;
 	text-align:center;
@@ -19,8 +23,6 @@ body{
 	font-family:"Microsoft Yahei";
 	background: #DEDEDE;
 	font-size:20px;
-	padding:0;
-	margin:0;
 }
 .right{
 	margin-right:540px;
