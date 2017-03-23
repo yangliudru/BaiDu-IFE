@@ -95,7 +95,7 @@ aside div h3{
 	padding:20px;
 }
 aside .location{
-	border:2px solid black;
+	width:30%;
 	text-align:right;
 	margin:5px;
 }
@@ -109,20 +109,19 @@ aside button{
 	color:white;
 }
 aside .tip{
-
 	color:#DEDEDE;
 	font-size:15px;
 	padding:0px;
 	margin-bottom:10px;
 }
 aside .attribute{
-	border:2px solid black;
+	width:60%;
 	float:right;	
 	text-align:left;
 	margin-bottom:10px;
 }
 aside .describe{
-	border:2px solid black;
+	
 
 	float:right;
 }
