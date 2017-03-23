@@ -18,7 +18,7 @@ body{
 	padding:20px;
 }
 main{
-	margin-right:240px;
+	margin-right:340px;
 }
 h3{
 	font-weight:normal;
@@ -71,7 +71,7 @@ th{
 }
 aside{
 	float:right;
-	width:200px;
+	width:300px;
 	overflow:auto;
 	padding:20px;
 	margin:20px;
