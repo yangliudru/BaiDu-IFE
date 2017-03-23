@@ -2,6 +2,7 @@
   background:#ccc;
   width:400px;
   height:200px;
+  position:
 }
 #top_left_corner,#bottom_right_corner{
   background:#fc0;
@@ -17,7 +18,7 @@
 #bottom_right_corner{
   border-top-left-radius:4em;
   position:relative;
-  bottom:0;
-  right:0;
+  top:100%;
+  left:100%;
   
 }
