@@ -86,13 +86,11 @@ aside{
 	margin:20px;
 }
 aside div h3{
-	font-size:25px;
-	width:100%;
+	font-size:20px;
 	height:30px;
 	border-left:2px solid #DEDEDE;
 	padding:20px;
 }
-
 aside .location{
 	width:40%;
 	text-align:right;
