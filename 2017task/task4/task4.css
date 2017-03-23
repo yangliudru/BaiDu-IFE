@@ -1,8 +1,9 @@
 #assist{
   position:relative;
   top:50%;
-  width:400px;
-  height:200px;
+  width:420px;
+  height:220px;
+  background:red;
   margin:0 auto;
 }
 #background{
