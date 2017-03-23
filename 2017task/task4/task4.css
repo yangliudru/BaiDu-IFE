@@ -1,15 +1,8 @@
-#assist{
-  position:relative;
-  width:50%;
-  left:50%;
-}
 #background{
-  position:relative;
-  left:-50%;
   background:#ccc;
   width:400px;
   height:200px;
-  position:
+  margin:0 auto;
 }
 #top_left_corner,#bottom_right_corner{
   background:#fc0;
@@ -23,7 +16,7 @@
   left:0;
 }
 #bottom_right_corner{
-  display:inline-block;
+  
   float:right;
   border-top-left-radius:4em;
   position:relative;
