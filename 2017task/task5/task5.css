@@ -45,10 +45,9 @@ h3{
 .picture{
 	float:left;
 	border:2px solid #DEDEDE;
-	width:550px;
+	width:250px;
 	padding:20px;
 	margin:20px;
-	;
 }
 .pictuer img{
 	margin:20px;
@@ -82,7 +81,7 @@ aside{
 	float:right;
 	border:2px solid black;
 	background:white;
-	width:496px;
+	width:396px;
 	padding:20px;
 	margin:20px;
 	overflow:auto;
