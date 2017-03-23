@@ -118,15 +118,15 @@ aside .tip{
 	margin-bottom:10px;
 }
 aside .attribute{
-	width:79%;
+	width:80%;
 	float:right;	
 	text-align:left;
 	margin-bottom:10px;
 }
 aside .describe{
-	float:right;
-	width:70%;
+	position:relative;
 	left:20%;
+	width:70%;
 }
 aside #person{
 	text-align:top;
