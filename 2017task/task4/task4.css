@@ -1,3 +1,10 @@
+body{
+  text-align: center;
+}
+#assist{
+  margin-right: auto;
+  margin-left: auto;
+}
 #background{
   position:relative;
   top:500px;
