@@ -1,9 +1,11 @@
-#assist{
+body{
   position:relative;
-  top:400px;
-  width:420px;
-  height:220px;
-  background:red;
+}
+#assist{
+  position:absolute;
+  top:50%;
+  width:400px;
+  height:200px;
   margin:0 auto;
 }
 #background{
