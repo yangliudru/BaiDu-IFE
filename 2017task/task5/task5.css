@@ -96,7 +96,6 @@ aside div h3{
 }
 aside .location{
 	border:2px solid black;
-	width:200px;
 	text-align:right;
 	margin:5px;
 }
@@ -119,14 +118,13 @@ aside .tip{
 }
 aside .attribute{
 	border:2px solid black;
-	width:370px;
 	float:right;	
 	text-align:left;
 	margin-bottom:10px;
 }
 aside .describe{
 	border:2px solid black;
-	width:380px;
+
 	float:right;
 }
 aside #person{
