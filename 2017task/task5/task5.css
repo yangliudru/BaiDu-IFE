@@ -3,13 +3,14 @@
 	border:2px solid black;
 	width:100%;
 	background:black;
-	overflow:auto;
+	height:30px;
 }
 #nav nav{
 	float:right;
 	right:25px;
 	color:white;
 	font-size:15px;
+	text-align:center;
 }
 #nav nav a{
 	color:#ccc;
