@@ -95,7 +95,7 @@ aside div h3{
 	padding:20px;
 }
 aside .location{
-	width:60%;
+	width:70%;
 	text-align:right;
 	margin:5px;
 }
@@ -110,7 +110,7 @@ aside button{
 }
 aside .tip{
 	position:relative;
-	left:20%;
+	left:40%;
 	color:#DEDEDE;
 	font-size:15px;
 	padding:0px;
@@ -123,8 +123,8 @@ aside .attribute{
 	margin-bottom:10px;
 }
 aside .describe{
-	float:right;
-	left:20%;
+	position:relative;
+	left:40%;
 }
 aside #person{
 	text-align:top;
