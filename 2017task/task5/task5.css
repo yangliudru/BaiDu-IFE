@@ -1,6 +1,7 @@
 #nav{
 	font-size:12px white;
 	border:2px solid black;
+	width:100%
 	background:black;
 	overflow:auto;
 }
@@ -18,7 +19,7 @@ body{
 	font-size:20px;
 }
 .right{
-	margin-right:560px;
+	margin-right:540px;
 }
 h3{
 	font-weight:normal;
