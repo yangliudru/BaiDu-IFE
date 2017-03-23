@@ -1,9 +1,16 @@
-#background{
+#assist{
   position:relative;
-  background:#ccc;
+  top:50%;
   width:400px;
   height:200px;
   margin:0 auto;
+}
+#background{
+  position:relative;
+  top:-50%;
+  background:#ccc;
+  width:400px;
+  height:200px;
 }
 #top_left_corner,#bottom_right_corner{
   background:#fc0;
