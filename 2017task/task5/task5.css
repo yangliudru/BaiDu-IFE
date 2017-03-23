@@ -7,6 +7,7 @@
 }
 #nav nav{
 	float:right;
+	right:25px;
 	color:white;
 	font-size:15px;
 }
@@ -43,9 +44,9 @@ h3{
 .picture{
 	float:left;
 	border:2px solid #DEDEDE;
-	width:230px;
 	padding:20px;
 	margin:20px;
+	overflow:auto;
 }
 .pictuer img{
 	margin:20px;
