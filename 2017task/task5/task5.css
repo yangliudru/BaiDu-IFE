@@ -33,7 +33,7 @@ h3{
 .retract{
 	text-indent:2em;
 }
-.first,.second,.third,.fourth,aside{
+.first,.second,.third,.fourth{
 	border:2px solid black;
 	background:white;
 	padding:20px;
@@ -80,7 +80,9 @@ th{
 }
 aside{
 	float:right;
-	width:500px;
+	border:2px solid black;
+	background:white;
+	width:496px;
 	padding:20px;
 	margin:20px;
 	overflow:auto;
