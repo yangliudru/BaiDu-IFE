@@ -16,9 +16,11 @@
   left:0;
 }
 #bottom_right_corner{
+  display:inline-block;
   border-top-left-radius:4em;
   position:relative;
-  top:100%;
-  left:100%;
+  right:0;
+  bottom:0;
+
   
 }
