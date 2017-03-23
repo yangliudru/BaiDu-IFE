@@ -124,9 +124,8 @@ aside .attribute{
 	margin-bottom:10px;
 }
 aside .describe{
-	position:relative;
-	left:40%;
-	width:50%;
+	float:right;
+	width:400px;
 }
 aside #person{
 	text-align:top;
