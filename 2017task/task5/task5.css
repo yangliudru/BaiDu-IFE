@@ -38,6 +38,7 @@ h3{
 	margin:20px;
 }
 .picture{
+	float:left;
 	border:2px solid #DEDEDE;
 	width:550px;
 	padding:20px;
