@@ -1,1 +1,16 @@
-
+#background{
+  background:#ccc;
+  width:400px;
+  height:200px;
+}
+#top_left_corner,#bottom_right_corner{
+  background:#fc0;
+  width:50px;
+  height:50px;
+}
+#top_left_corner{
+  border-bottom-right-radius:2em;
+}
+#bottom_right_corner{
+  border-top-left-radius:2em;
+}
