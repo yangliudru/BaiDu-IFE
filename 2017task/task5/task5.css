@@ -81,17 +81,17 @@ th{
 aside{
 	float:right;
 	width:500px;
-	overflow:auto;
 	padding:20px;
 	margin:20px;
+	overflow:auto;
 }
 aside div h3{
 	font-size:20px;
 	height:30px;
-	border-left:2px solid #DEDEDE;
+	border-left:4px solid #DEDEDE;
 	padding:20px;
 }
-aside .location{
+aside>.location{
 	width:40%;
 	text-align:right;
 	margin:5px;
@@ -104,7 +104,7 @@ aside button{
 	border-radius:1em;
 	color:white;
 }
-aside .tip{
+aside>.tip{
 	position: relative;
 	left:30%;
 	color:#DEDEDE;
@@ -112,17 +112,17 @@ aside .tip{
 	padding:0px;
 	margin-bottom:10px;
 }
-aside .attribute{
+aside>.attribute{
 	width:74%;
 	float:right;	
 	text-align:left;
 	margin-bottom:10px;
 }
-aside .describe{
+aside>.describe{
 	width:76%;
 	float:right;
 }
-aside #person{
+aside>#person{
 	text-align:top;
 	font-size:15px;
 	float:left;
