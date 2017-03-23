@@ -16,6 +16,54 @@
     </nav>
   </div> 
  <main>
+   <aside>
+       <div>
+         <h3>这里以后是一个侧栏，这是侧栏的标题</h3>
+         <form class="location" method="post" action="save.php">
+           请输入邮箱地址：<input type="text" name="邮箱" value="这是一个文本输入框"/>
+         </form>
+         <p class="tip">邮箱地址请按要求格式输入</p>
+         <form class="location" method="post" action="save.php">
+           请输入密码：<input type="password" name="密码" value="这是一个文本输入框"/>
+          </form>
+          <form class="location" method="post" action="save.php">
+           请重复输入密码：<input type="password" name="密码" value="这是一个文本输入框"/>
+         </form>
+         <p class="tip">密码请为6-16位英文数字</p>
+       </div>
+       <div>
+         <form class="attribute" action="save.php" method="post" >
+            <label>性别：</label>
+            <label>男</label>
+            <input type="radio" value="1" name="gender" checked="checked" />
+            <label>女</label>
+            <input type="radio" value="2"  name="gender" />
+         </form>
+        <div class="attribute">
+          <lable>城市：</lable>
+          <select >
+            <option value="上海">上海</option>
+            <option value="北京" selected="selected">北京</option>
+            <option value="石家庄">石家庄</option>
+            <option value="邯郸">邯郸</option>
+          </select>
+         </div>
+         <form class="attribute">
+             <label>爱好：</label>
+             <label for="运动">运动</label>
+             <input type="checkbox" name="爱好" id="运动" />
+             <label for="艺术">艺术</label>
+             <input type="checkbox" name="爱好" id="艺术" />
+             <label for="科学">科学</label>
+             <input type="checkbox" name="爱好" id="科学" />
+         </form>
+         <form class="describe" action="save.php" method="post">
+             <label id="person">个人描述： </label>
+             <textarea cols="100" rows="5">这是一个多行输入框，输入你的个人描述</textarea>
+         </form>
+         <button type="submit">确认提交</button>
+       </div>
+  </aside>
   <div class="right">
       <div class="first">
          <h2>峰峰才女获全国作文大赛一等奖</h2>
@@ -130,54 +178,6 @@
          </table>
       </div>
    </div>
-   <aside>
-       <div>
-         <h3>这里以后是一个侧栏，这是侧栏的标题</h3>
-         <form class="location" method="post" action="save.php">
-           请输入邮箱地址：<input type="text" name="邮箱" value="这是一个文本输入框"/>
-         </form>
-         <p class="tip">邮箱地址请按要求格式输入</p>
-         <form class="location" method="post" action="save.php">
-           请输入密码：<input type="password" name="密码" value="这是一个文本输入框"/>
-          </form>
-          <form class="location" method="post" action="save.php">
-           请重复输入密码：<input type="password" name="密码" value="这是一个文本输入框"/>
-         </form>
-         <p class="tip">密码请为6-16位英文数字</p>
-       </div>
-       <div>
-         <form class="attribute" action="save.php" method="post" >
-            <label>性别：</label>
-            <label>男</label>
-            <input type="radio" value="1" name="gender" checked="checked" />
-            <label>女</label>
-            <input type="radio" value="2"  name="gender" />
-         </form>
-        <div class="attribute">
-          <lable>城市：</lable>
-          <select >
-            <option value="上海">上海</option>
-            <option value="北京" selected="selected">北京</option>
-            <option value="石家庄">石家庄</option>
-            <option value="邯郸">邯郸</option>
-          </select>
-         </div>
-         <form class="attribute">
-             <label>爱好：</label>
-             <label for="运动">运动</label>
-             <input type="checkbox" name="爱好" id="运动" />
-             <label for="艺术">艺术</label>
-             <input type="checkbox" name="爱好" id="艺术" />
-             <label for="科学">科学</label>
-             <input type="checkbox" name="爱好" id="科学" />
-         </form>
-         <form class="describe" action="save.php" method="post">
-             <label id="person">个人描述： </label>
-             <textarea cols="100" rows="5">这是一个多行输入框，输入你的个人描述</textarea>
-         </form>
-         <button type="submit">确认提交</button>
-       </div>
-    </aside>
   </main>
   <footer>
       <p>版权所有&nbsp;&copy;&nbsp;2017<span>花峰客栈</span></p>
