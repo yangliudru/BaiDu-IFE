@@ -6,19 +6,20 @@
   </head>
 <body>
   <label>请输入北京今天空气质量：<input id="aqi-input" type="text" value=""></label>
-  <button id="button" onclick="input()">确认填写</button>
+  <button id="button" onclick="input()">确认填写</button>  <!---点击按钮触发onclick事件然后调用input()函数。--->
   <div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
 <script type="text/javascript">
   function input(){
-    var text = document.getElementById("aqi-input").value; //获取输入的内容，并赋值给a;
-    var b = document.getElementById("aqi-display");  //获取Id：aqi-display，并赋值给b;
-    b.innerHTML = a;   //改变b的值。
-  /*    
+    /*    
   在注释下方写下代码
   给按钮button绑定一个点击事件
   在事件处理函数中
   获取aqi-input输入的值，并显示在aqi-display中
   */
+    var text = document.getElementById("aqi-input").value; //获取输入的内容，并赋值给a;
+    var b = document.getElementById("aqi-display");  //获取Id：aqi-display，并赋值给b;
+    b.innerHTML = a;   //改变b的值。
+  
 
   }
 </script>
