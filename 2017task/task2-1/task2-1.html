@@ -10,9 +10,9 @@
   <div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
 <script type="text/javascript">
   function input(){
-    var a = document.getElementById("aqi-input").value;
-    var b = document.getElementById("aqi-display");
-    b.innerHTML = a; 
+    var text = document.getElementById("aqi-input").value; //获取输入的内容，并赋值给a;
+    var b = document.getElementById("aqi-display");  //获取Id：aqi-display，并赋值给b;
+    b.innerHTML = a;   //改变b的值。
   /*    
   在注释下方写下代码
   给按钮button绑定一个点击事件
