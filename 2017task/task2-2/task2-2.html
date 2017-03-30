@@ -6,15 +6,10 @@
   </head>
 <body>
   <h3>污染城市列表</h3>
-  <ul id="aqi-list">  
-    <li id="first"></li>
-    <li id="scend"></li>
-    <li id="third"></li>
-    <li id="four"></li>
-    <li id="five"></li>
+  <ul id="aqi-list">
   </ul>
   <script type="text/javascript">
-    var aqiData = [
+ var aqiData = [
       ["北京", 90],
       ["上海", 50],
       ["福州", 10],
@@ -22,24 +17,15 @@
       ["成都", 90],
       ["西安", 100]
     ];
-    function ranking() {
-      /*
-      在注释下方编写代码
-      遍历读取aqiData中各个城市的数据
-      将空气质量指数大于60的城市显示到aqi-list的列表中
-      */
-      for(var i=0;i<=aqiData.length-1;i++){
-        for(var j=1;j<=aqiData.length-1;j++){
-          if(aqiData[j,1]>aqiData[i,1]){
-            var a = aqiData[i+1,1];
-            aqiData[i+1,1] = aqiData[1,1];
-            aqiData[i,1] = a;
-          }
-        }
-      }
-      var a = document.getElementById("first");
-      aqiData[0,1].innerHTML="a";
-    }
+var bArray = aqiData.filter(function(array){return array[1]>60;});
+bArray.sort(ranking);
+function ranking(arr1,arr2){
+  return arr1-arr2;
+}
+var ul = document.getElementById(aqi-list);
+for(var i=0;i<objectList.length;i++){
+    ul.innerHTML = "<li>"+bArray[i]+"</li>";
+}
   </script>
 </body>
 </html>
