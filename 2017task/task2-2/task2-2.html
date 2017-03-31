@@ -17,14 +17,17 @@
       ["成都", 90],
       ["西安", 100]
     ];
+var ul=document.getElementById('aqi-list');
 var bArray = aqiData.filter(function(array){return array[1]>60;});
 bArray.sort(ranking);
 function ranking(arr1,arr2){
   return arr1-arr2;
 }
-var ul = document.getElementById(aqi-list);
-for(var i=0;i<bArray.length;i++){
-    ul.innerHTML = "<li>+bArray[i]+</li></br>";
+function wirte(){    //输出
+    for(var i=0;i<bArray.length;i++){
+      var li=document.createElement('li');
+      ul.append(li);
+      li.innerHTML="第"+(i+1)+"名："+bArray[i];
 }
   </script>
 </body>
